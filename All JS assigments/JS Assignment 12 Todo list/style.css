@@ -28,6 +28,8 @@ h1 {
 
 }
 
+
+
 .cover {
     display: flex;
     justify-content: space-between;
@@ -72,6 +74,9 @@ h1 {
     background-color: black;
     color: rgb(91, 162, 228);
     border-radius: 5px;
+}
+.hei{
+    height: 40px;
 }
 
 .listItem {

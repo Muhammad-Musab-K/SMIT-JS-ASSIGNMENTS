@@ -59,3 +59,7 @@ function cls(){
     let input = document.getElementById('input')
     input.value = ''
 }
+function deleteAll (){
+    let ulElement = document.getElementById('listNo')
+    ulElement.innerHTML = ''
+}
